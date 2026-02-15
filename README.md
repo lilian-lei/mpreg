@@ -59,3 +59,10 @@ python3 mpreg -i input.txt -v
 - If no input file is specified, the tool reads from standard input
 - If no output file is specified, results are written to standard output
 - The `--diverse` and `--vanilla` flags are mutually exclusive
+
+### Future Features
+- Web App React Based UI
+- Terminal based CLI interface
+- ChatGPT integration through API keys
+- Local model hosting and filtering
+- Expanded character replacement tools
